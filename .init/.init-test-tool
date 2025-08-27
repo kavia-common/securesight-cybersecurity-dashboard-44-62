@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/securesight-cybersecurity-dashboard-44-62/dashboard_frontend"
+}
